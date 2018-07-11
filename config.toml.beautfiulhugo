@@ -24,7 +24,7 @@ rss = true
 comments = false
 readingTime = true
 useHLJS = true
-socialShare = false
+socialShare = true
 custom_css = ["css/style.css"]
 
 #[[Params.bigimg]]

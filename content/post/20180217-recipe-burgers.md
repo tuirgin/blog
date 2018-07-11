@@ -8,7 +8,7 @@ categories = ["food"]
 draft = false
 +++
 
-These burgers are family favorite. Simple, thick slices of everything, and
+These burgers are a family favorite. Simple, thick slices of everything, and
 finished off with a spicy dressing that balances it all out.<!--more-->
 
 

@@ -33,7 +33,7 @@ exercise which surprised me for having voiced exactly this concern.
 
 When we “compose our thoughts” we sift through the raw material of our
 thoughts and feelings and shape them in an attempt to focus them into a
-shape that is easier to convey and understand. And all too often, once we
+form that is easier to convey and understand. And all too often, once we
 have finished this process and produced a few statements about something,
 our sense of perception changes to back this limited meaning as if it were
 complete and essential. It becomes a part of our personal canon of being.
@@ -71,7 +71,7 @@ if doubt and uncertainty are our most honest offerings?
 
 <p class="work-ref">—Doctor Zhivago by Boris Pasternak</p>
 
-When learning something knew, there&rsquo;s often a lot of rote memorization.
+When learning something new, there&rsquo;s often a lot of rote memorization.
 I&rsquo;m getting back into learning the game of Go (_Baduk_ in Korea, or
 _Weiqi_ in China). Similar to Chess&rsquo; voluminous documentation of openings,
 Go has what are called &ldquo;joseki&rdquo; which are a set of standard moves,

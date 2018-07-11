@@ -42,7 +42,7 @@ custom_css = ["css/style.css"]
 [Author]
   name = "Christopher D. Walborn"
   website = "tuirgin.com"
-  email = "tuirgin.blog@gmail.com"
+  email = "blog@tuirgin.com"
   facebook = "Tuirgin"
   googleplus = "+ChristopherWalborn" # or xxxxxxxxxxxxxxxxxxxxx
   github = "Tuirgin"

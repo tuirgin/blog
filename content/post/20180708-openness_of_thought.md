@@ -103,8 +103,4 @@ more than two stones, we&rsquo;ll have wasted a life to passive consumption,
 living only as consumers of whittled down and composed statements passing as
 wisdom.
 
-[^fn:1]: Zhivago is writing of a journalist’s notebook, filled with facts
-without interpretation. If we are merely recipients and not engaged in
-understanding, we’ll lose more than two stones, we’ll have wasted a life to
-passive consumption, living only as consumers of whittled down and composed
-statements passing as wisdom.
+[^fn:1]: Zhivago is writing of a journalist’s notebook, filled with facts without interpretation. If we are merely recipients and not engaged in understanding, we’ll lose more than two stones, we’ll have wasted a life to passive consumption, living only as consumers of whittled down and composed statements passing as wisdom.

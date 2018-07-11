@@ -5,7 +5,7 @@ date = 2018-02-17
 lastmod = 2018-07-10T22:16:30-04:00
 tags = ["recipes", "burgers"]
 categories = ["food"]
-draft = true
+draft = false
 +++
 
 These burgers are family favorite. Simple, thick slices of everything, and

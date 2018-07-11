@@ -4,7 +4,7 @@ date = 2015-08-22T10:45:18Z
 lastmod = 2018-07-10T22:38:58-04:00
 tags = ["poetry"]
 categories = ["writing"]
-draft = true
+draft = false
 +++
 
 It&rsquo;s been quite a few years since I last spent time on poetry. For

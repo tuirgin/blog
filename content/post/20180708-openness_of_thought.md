@@ -5,7 +5,7 @@ date = 2018-07-08T14:48:00Z
 lastmod = 2018-07-10T21:58:28-04:00
 tags = ["learning", "dogma", "thought", "Bible", "Plato", "Boris Pasternak"]
 categories = ["Living in the World"]
-draft = true
+draft = false
 +++
 
 ### Words: Creative and Limiting {#words-creative-and-limiting}

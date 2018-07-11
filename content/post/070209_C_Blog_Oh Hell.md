@@ -5,7 +5,7 @@ date = 2007-02-09
 lastmod = 2018-07-10T22:30:56-04:00
 tags = ["hell"]
 categories = ["Living in the World"]
-draft = true
+draft = false
 +++
 
 2018 Update: I wrote these messages 11 years ago and numerous features of my

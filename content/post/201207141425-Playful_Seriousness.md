@@ -5,7 +5,7 @@ date = 2012-07-14T14:25:00Z
 lastmod = 2018-07-10T22:58:31-04:00
 tags = ["essay", "memories", "CS Lewis", "Narnia", "GK Chesterton", "George MacDonald", "Robertson Davies", "Rabelais", "Shakespeare"]
 categories = ["writing", "Living in the World"]
-draft = true
+draft = false
 +++
 
 I remember my father reading to me. He made the stories into a spectacle

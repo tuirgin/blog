@@ -4,7 +4,7 @@ date = 2016-10-03
 lastmod = 2018-07-10T22:20:10-04:00
 tags = ["sourdough", "bread"]
 categories = ["food"]
-draft = true
+draft = false
 +++
 
 ## Sourdough Starter {#sourdough-starter}

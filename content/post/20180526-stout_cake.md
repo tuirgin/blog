@@ -5,7 +5,7 @@ date = 2018-05-26
 lastmod = 2018-07-10T22:11:39-04:00
 tags = ["chocolate", "cake", "recipes"]
 categories = ["food"]
-draft = true
+draft = false
 +++
 
 This chocolate cake is dense and rich, but not overly sweet, especially if it is

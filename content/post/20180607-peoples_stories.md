@@ -4,7 +4,7 @@ author = ["Christopher Walborn"]
 date = 2018-06-07T00:00:00-04:00
 tags = ["LBGTQ+", "masculinity", "relationships"]
 categories = ["Living in the World"]
-draft = true
+draft = false
 +++
 
 People&rsquo;s stories change lives. Letting people and their various perspectives into your own life can be threatening for this very reason. Hence xenophobia. Hence othering. Hence culture wars. Hence an epidemic of loneliness in our society.

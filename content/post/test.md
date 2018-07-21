@@ -3,7 +3,7 @@ title = "Besogo Test"
 author = ["Christopher Walborn"]
 tags = ["go", "baduk", "weiqi"]
 categories = ["games"]
-draft = false
+draft = true
 +++
 
 This is a test of Besogo.

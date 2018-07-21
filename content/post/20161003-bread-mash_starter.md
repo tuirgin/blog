@@ -11,7 +11,7 @@ draft = false
 
 I maintain a very small amount of starter between bakes---no more than
 60--70g---otherwise I just end up with too much waste or stored old starter.
-(You can use the old starter this for pancakes, waffles, crackers, and other
+(You can use the old starter for pancakes, waffles, crackers, and other
 things.) However, when building an initial starter, there is benefit to
 volume---greater room for error. <!--more-->
 
@@ -93,7 +93,7 @@ volume---greater room for error. <!--more-->
 ## Mash {#mash}
 
 This will make well over 300g more than is required for the starter. Adjust measurements
-as needed, however may be difficult to work with smaller quantities.
+as needed, however it may be difficult to work with smaller quantities.
 
 
 ### Ingredients {#ingredients}

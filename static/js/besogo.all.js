@@ -1,0 +1,1 @@
+/home/tuirgin/src/besogo/js/besogo.all.js

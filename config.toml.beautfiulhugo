@@ -16,7 +16,7 @@ pygmentsCodefencesGuessSyntax = true
 [Params]
 subtitle = "A life in questions" # Set a different text for the header on the home page
 homeTitle = "And it’s turtles all the way down..."
-logo = "images/headshot2-150x150.png"
+logo = "img/headshot2-150x150.png"
 favicon = "img/favicon.ico"
 dateFormat = "January 2, 2006"
 commit = false
@@ -25,7 +25,7 @@ comments = false
 readingTime = true
 useHLJS = true
 socialShare = true
-custom_css = ["css/style.css"]
+custom_css = ["css/style.css", "css/besogo.css", "css/board-wood.css", "css/board-tuirgin.css"]
 
 #[[Params.bigimg]]
 #  src = "img/triangle.jpg"

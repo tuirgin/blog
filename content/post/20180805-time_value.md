@@ -3,7 +3,7 @@ title = "Time and Value"
 author = ["Christopher Walborn"]
 date = 2018-08-05T00:00:00-04:00
 lastmod = 2018-08-05T21:40:44-04:00
-tags = ["time", "aspirations"]
+tags = ["time", "aspirations", "age", "mortality"]
 categories = ["living-in-the-world"]
 draft = false
 +++

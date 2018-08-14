@@ -8,7 +8,7 @@ categories = ["living-in-the-world"]
 draft = false
 +++
 
-This does not hit close to home. It&rsquo;s dead-on, right to the face.
+This does not hit close to home. It&rsquo;s dead-on, right to the face.<!--more-->
 
 > Smith confirms the “value of community for the marginalised” before
 > letting slip: “You don’t have the luxury of being an individual.” That seems a

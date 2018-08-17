@@ -5,7 +5,7 @@ date = 2018-08-05T00:00:00-04:00
 lastmod = 2018-08-17T14:45:51-04:00
 tags = ["time", "aspirations"]
 categories = ["living-in-the-world", "journal"]
-draft = true
+draft = false
 +++
 
 _I am 5. I have my whole life before me. What will I become? A fireman. A policeman. A construction worker._

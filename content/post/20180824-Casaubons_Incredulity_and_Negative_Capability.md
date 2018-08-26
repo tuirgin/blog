@@ -2,9 +2,9 @@
 title = "Casaubon’s Incredulity and Negative Capability"
 author = ["Christopher Walborn"]
 date = 2018-08-24
-lastmod = 2018-08-26T00:39:38-04:00
+lastmod = 2018-08-26T00:53:05-04:00
 tags = ["Umberto Eco", "Foucault’s Pendulum", "incredulity", "negative capability"]
-categories = ["life-in-the-world", "writing"]
+categories = ["living-in-the-world", "writing"]
 draft = false
 +++
 

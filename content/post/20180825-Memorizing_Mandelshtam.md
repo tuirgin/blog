@@ -11,7 +11,6 @@ draft = false
 Re-reading Glyn Maxwell&rsquo;s _On Poetry_, I took special note of this following passage, which appears just before a section break.
 
 > A memorized poem can be passed to you intact. I think this makes the written poem unique, in terms of our relationship with its materials—by which I mean the black (something there) and the white (nothing there). The Stalin regime could destroy Osip Mandelstam, but not the poems his widow Nadezhda had learned by heart. That&rsquo;s something and nothing showing their true colors.
-
 <!--more-->
 
 Compare this with what I [wrote on the 15th](https://www.tuirgin.com/post/20180815-journal-poetry):
